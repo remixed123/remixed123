@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Glenn Vassallo</h1>
 <h3 align="center">Open Source enthusiast, IoT and GenAI Developer / Brisbane, Australia</h3>
 
-- 🔭&nbsp;I’m currently working on [llmIoT](https://github.com/remixed123/llmiot)
+- 🔭&nbsp;
 
 - 💬&nbsp;Ask me about using GenAI with your IoT data
 
